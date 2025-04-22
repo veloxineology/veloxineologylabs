@@ -23,11 +23,11 @@ export const USER = {
   jobs: [
     {
       title: "Senior Full Stack Developer & UI Design Lead",
-      company: " ThalirConnect - Formerly HomeLifeSync",
+      company: "ThalirConnect - Formerly HomeLifeSync",
     },
     {
       title: "Founder",
-      company: " Veloxineology Labs",
+      company: "Veloxineology Labs",
       website: "veloxineologylabs.com",
     },
   ],
