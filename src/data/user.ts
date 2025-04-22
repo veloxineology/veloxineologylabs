@@ -11,7 +11,7 @@ export const USER = {
     "Open Source Contributor",
   ],
   address: "Coimbatore, Tamil Nadu, India",
-  phoneNumber: "KzkxIDk1OTcxNDA2OTI", // E.164 format, base64 encoded (https://t.io.vn/base64-string-converter)
+  phoneNumber: "OTU5NzE0MDY5Mg==", // E.164 format, base64 encoded (https://t.io.vn/base64-string-converter)
   email: "dmVsb3hpbmVvbG9neUBnbWFpbC5jb20==", // base64 encoded
   // email: "dai[at]chanhdai[dot]com",
   website: "veloxineologylabs.com",
