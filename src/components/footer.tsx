@@ -17,7 +17,7 @@ export function Footer() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ncdai
+          Kaushik
         </a>
         . The source code is available on{" "}
         <a

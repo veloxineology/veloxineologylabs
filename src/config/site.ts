@@ -2,7 +2,7 @@ import { USER } from "@/data/user";
 
 export const SITE_INFO = {
   name: USER.displayName,
-  url: process.env.APP_URL || "https://chanhdai.com",
+  url: process.env.APP_URL || "https://veloxineologylabs.vercel.app",
   ogImage: USER.ogImage,
   description: USER.bio,
   keywords: USER.keywords,
