@@ -57,7 +57,7 @@ export const Index: Record<string, any> = {`;
     {
       $schema: "https://ui.shadcn.com/schema/registry.json",
       name: "chanhdai/ui",
-      homepage: "https://chanhdai.com/ui",
+      homepage: "veloxineologylabs.vercel.app",
       items: registry.items
         .filter((item) => item.type !== "registry:example")
         .map((item) => {

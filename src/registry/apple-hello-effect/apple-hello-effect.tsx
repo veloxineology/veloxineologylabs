@@ -30,7 +30,7 @@ export function AppleHelloVietnameseEffect({
       transition={{ duration: 0.5 }}
       {...props}
     >
-      <title>xin chào</title>
+      <title>kaushikieee</title>
 
       {/* x2 */}
       <motion.path
