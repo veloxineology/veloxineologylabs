@@ -24,12 +24,11 @@ export const USER = {
     {
       title: "Senior Full Stack Developer & UI Design Lead",
       company: "ThalirConnect - Formerly HomeLifeSync",
-      website: "https://github.com/veloxineology/thalirconnect",
     },
     {
       title: "Founder",
       company: "Veloxineology Labs",
-      website: "https://quaric.com",
+      website: "veloxineologylabs.com",
     },
   ],
   about: `
