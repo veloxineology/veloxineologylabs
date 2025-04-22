@@ -24,6 +24,7 @@ export const USER = {
     {
       title: "Senior Full Stack Developer & UI Design Lead",
       company: "ThalirConnect - Formerly HomeLifeSync",
+      website= "",
     },
     {
       title: "Founder",
