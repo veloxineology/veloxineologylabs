@@ -1,8 +1,8 @@
 export const USER = {
-  firstName: "Chánh Đại",
-  lastName: "Nguyễn",
-  displayName: "Chánh Đại",
-  username: "ncdai",
+  firstName: "Kaushik",
+  lastName: "S",
+  displayName: "Kaushik S",
+  username: "kaushikieee",
   gender: "male",
   bio: "Creating with code, driven by passion.",
   flipSentences: [
@@ -10,45 +10,36 @@ export const USER = {
     "UI/UX Designer",
     "Open Source Contributor",
   ],
-  address: "Ho Chi Minh City, Viet Nam",
-  phoneNumber: "Kzg0Nzc3ODg4MTQ4", // E.164 format, base64 encoded (https://t.io.vn/base64-string-converter)
-  email: "ZGFpQGNoYW5oZGFpLmNvbQ==", // base64 encoded
+  address: "Coimbatore, Tamil Nadu, India",
+  phoneNumber: "KzkxIDk1OTcxNDA2OTI", // E.164 format, base64 encoded (https://t.io.vn/base64-string-converter)
+  email: "dmVsb3hpbmVvbG9neUBnbWFpbC5jb20==", // base64 encoded
   // email: "dai[at]chanhdai[dot]com",
-  website: "https://chanhdai.com",
+  website: "veloxineologylabs.com",
   otherWebsites: [
-    "https://dai.ng",
-    "https://dai.so",
-    "https://d.io.vn",
-    "https://d.id.vn",
-    "https://dai.io.vn",
-    "https://dai.id.vn",
-    "https://dai.is-a.dev",
-    "https://chanhdai.io.vn",
-    "https://chanhdai.id.vn",
+    "serenote123.vercel.app",
   ],
-  dateOfBirth: "2000-08-14", // YYYY-MM-DD
+  dateOfBirth: "2008-04-12", // YYYY-MM-DD
   jobTitle: "Software Developer & UI/UX Designer",
   jobs: [
     {
-      title: "Senior Frontend Developer & UI Design Lead",
-      company: "Simplamo",
-      website: "https://simplamo.com?ref=IN-926722",
+      title: "Senior Full Stack Developer & UI Design Lead",
+      company: "ThalirConnect - Formerly HomeLifeSync",
+      website: "https://github.com/veloxineology/thalirconnect",
     },
     {
       title: "Founder",
-      company: "Quaric",
+      company: "Veloxineology Labs",
       website: "https://quaric.com",
     },
   ],
   about: `
-Hello, World! I am Chánh Đại, a Software Developer & UI/UX Designer passionate about creating high-performance, user-centric software solutions with intuitive and engaging designs.\n
+Hello, World! I am Kaushik, a Software Developer & UI/UX Designer passionate about creating high-performance, user-centric software solutions with intuitive and engaging designs.\n
 With 5+ years of experience, I specialize in building high-quality web and mobile applications using Next.js, React, TypeScript, and modern front-end technologies. Beyond work, I love exploring new technologies and turning ideas into reality through personal projects.\n
-One of my key projects, [ZaDark](https://zadark.com), enhances the Zalo experience on PC and Web, surpassing 80,000 downloads on [SourceForge](https://sourceforge.net/projects/zadark) and 10,000 active users on the [Chrome Web Store](https://chromewebstore.google.com/detail/llfhpkkeljlgnjgkholeppfnepmjppob) since 2022.\n
 Let's connect and collaborate!
   `,
   avatar: "/images/chanhdai-avatar-ghibli.jpeg",
   ogImage: "/images/chanhdai-og-image.png?v=250420",
   keywords:
-    "ncdai, nguyenchanhdai, nguyen chanh dai, chanhdai, chanh dai, iamncdai, quaric, zadark, nguyễn chánh đại, chánh đại",
+    "kaushik, veloxineology, veloxineologylabs, veloxineology labs, kaushikieee, veloxine, tanisha's boyfriend kaushik, nothing phone 2, nothing phone 2 kaushik, ghostgms, ghostgms kaushik, google photos",
   dateCreated: "2023-10-20", // YYYY-MM-DD
 };
