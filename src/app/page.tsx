@@ -90,8 +90,6 @@ export default function Page() {
             <Awards />
             <Pattern />
 
-            <Certifications />
-            <Pattern />
           </main>
 
           <Footer />
